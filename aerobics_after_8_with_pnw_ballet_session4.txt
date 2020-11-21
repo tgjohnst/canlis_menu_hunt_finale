@@ -1,0 +1,3 @@
+[youtube] hwUGoQa2fCM: Downloading webpage
+[youtube] hwUGoQa2fCM: Looking for automatic captions
+[youtube] hwUGoQa2fCM: Downloading MPD manifest

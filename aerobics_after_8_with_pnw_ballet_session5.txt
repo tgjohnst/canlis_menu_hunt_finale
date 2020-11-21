@@ -1,0 +1,3 @@
+[youtube] hFQWmcPs_AE: Downloading webpage
+[youtube] hFQWmcPs_AE: Looking for automatic captions
+[youtube] hFQWmcPs_AE: Downloading MPD manifest
